@@ -1,6 +1,7 @@
 
-  ## Hi there, I'm Lavina Chauhan 👋
-  🌱 MCA Student | Always a learner | 🚀 Tech Explorer
+  <h1 align = "center"><b> Hi there, I'm Lavina Chauhan 👋 </b> </h1>
+  <p align = "center">🌱 MCA Student | Always a learner | 🚀 Tech Explorer </p>
+
   
   <li>🌱 I’m currently learning <b>Web development</b> and <b>DSA</b></li>
   <li>📫 How to reach me: chauhanlavi1627@gmail.com </li>
