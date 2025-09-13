@@ -1,10 +1,11 @@
 
   <h1 align = "center"><b> Hi there, I'm Lavina Chauhan 👋 </b> </h1>
-  <p align = "center">🌱 MCA Student | Always a learner | 🚀 Tech Explorer </p>
+  <h3 align = "center"><b>🌱 MCA Student |📚Always a learner | 🚀 Tech Explorer  </b></h3>
 
   
   <li>🌱 I’m currently learning <b>Web development</b> and <b>DSA</b></li>
   <li>📫 How to reach me: chauhanlavi1627@gmail.com </li>
+  <li>💬 Ask me about <b>DSA, C++, Python, HTML, CSS, JavaScript, DBMS, Object oriented programming, Operating system </b> </li>
 
   
   ## 🚀 Skills  
