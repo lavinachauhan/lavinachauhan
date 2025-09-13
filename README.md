@@ -1,4 +1,66 @@
-## Hi there, I'm Lavina Chauhan 👋
+  ## Hi there, I'm Lavina Chauhan 👋
+  🌱 MCA Student | Always a learner | 🚀 Tech Explorer
+  
+  🌱 I’m currently learning web development and DSA
+    
+  📫 How to reach me: chauhanlavi1627@gmail.com
+  
+  ## 🚀 Skills  
+<div style = "display : flex">
+    <!-- c -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height = "35px" width = "35px"/>
+  
+  <!-- c++ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height = "35px" width = "35px"/>
+  
+  <!-- python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height = "35px" width = "35px"/>
+  
+  <!-- html -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height = "35px" width = "35px"/>
+  
+  <!-- css -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height = "35px" width = "35px"/>
+  
+  <!-- javascript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height = "35px" width = "35px"/>
+    
+  <!-- react-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height = "35px" width = "35px"/>
+            
+  <!-- tailwind -->
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height = "35px" width = "35px"/>
+            
+  <!-- node.js -->
+  
+  <!-- express.js -->
+  
+  <!-- mongo db -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height = "35px" width = "35px"/>
+            
+  <!-- sql -->
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height = "35px" width = "35px" />
+            
+  <!-- git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height = "35px" width = "35px"/>
+            
+  <!-- github -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height = "35px" width = "35px"/>
+            
+  <!-- vs code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height = "35px" width = "35px" />
+</div>
+
+          
+
+          
+  ## 📫 Connect with me  
+  <a href = "https://www.linkedin.com/in/lavinachauhan/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height = "35px" width = "35px"/></a>
+  <a href = "https://leetcode.com/u/lavinachauhan/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" height = "35px" width = "35px" /></a>
+
+          
+![Lavina's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavinachauhan&show_icons=true&theme=radical)     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavinachauhan&layout=compact&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lavinachauhan&theme=radical)
+
 
 <!--
 **lavinachauhan/lavinachauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +76,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
