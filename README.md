@@ -5,7 +5,7 @@
   
   <li>🌱 I’m currently learning <b>Web development</b> and <b>DSA</b></li>
   <li>📫 How to reach me: chauhanlavi1627@gmail.com </li>
-  <li>💬 Ask me about <b>DSA, C++, Python, HTML, CSS, JavaScript, DBMS, Object oriented programming, Operating system </b> </li>
+  <li>💬 Ask me about <b>DSA, C++, Python, HTML, CSS, JavaScript, DBMS, Object Oriented Programming, Operating system </b> </li>
 
   
   ## 🚀 Skills  
