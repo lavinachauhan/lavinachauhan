@@ -1,9 +1,10 @@
+
   ## Hi there, I'm Lavina Chauhan 👋
   🌱 MCA Student | Always a learner | 🚀 Tech Explorer
   
-  🌱 I’m currently learning web development and DSA
-    
-  📫 How to reach me: chauhanlavi1627@gmail.com
+  <li>🌱 I’m currently learning <b>Web development</b> and <b>DSA</b></li>
+  <li>📫 How to reach me: chauhanlavi1627@gmail.com </li>
+
   
   ## 🚀 Skills  
 <div style = "display : flex">
