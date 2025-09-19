@@ -62,7 +62,8 @@
   <a href = "https://leetcode.com/u/lavinachauhan/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" height = "35px" width = "35px" /></a>
 
           
-![Lavina's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavinachauhan&show_icons=true&theme=radical)     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavinachauhan&layout=compact&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lavinachauhan&theme=radical)
+![Lavina's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavinachauhan&show_icons=true&theme=radical)     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavinachauhan&layout=compact&theme=radical) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lavinachauhan&theme=radical)
 
 
 <!--
